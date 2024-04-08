@@ -9,4 +9,4 @@ if Promedio > 220:
      print(f"{Promedio} = ALTO VOLTAJE")
 else:
      if Promedio < 220:
-          print(f"{Promedio} = VOLTAJE CORRECTO")
+          print(f"{Promedio} = VOLTAJE CORRECTO") 
