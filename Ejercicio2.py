@@ -6,4 +6,4 @@ area = base * altura
 if area > 1000:
     print(f"el area es {area} - DATOS NO VALIDOS")
 else:
-    print(f"el area es {area}")
+    print(f"el area es {area}") 
