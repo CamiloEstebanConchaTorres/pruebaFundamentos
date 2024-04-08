@@ -10,4 +10,4 @@ else:
         print(f"{Promedio} = ALTO VOLTAJE") 
     else:
         if Promedio >= 220:
-           print(f"{Promedio} = PELIGRO")
+           print(f"{Promedio} = PELIGRO") 
